@@ -46,6 +46,7 @@ MONGODB_URL="mongodb+srv://127.0.0.1:27017/"
 PORT=4000
 
 ## PostMan
+
 Create Product : http://localhost:4000/products  
 {"
     "name": "iPhone 16",
@@ -80,5 +81,6 @@ List Products :http://localhost:4000/products?page=1&limit=10
 
    Analytics:http://localhost:4000/stock/analytics
 
+<img width="1593" height="842" alt="Screenshot 2025-11-12 224829" src="https://github.com/user-attachments/assets/5dc2656a-da1a-4e0d-bec7-fd6802093146" />
 
 
