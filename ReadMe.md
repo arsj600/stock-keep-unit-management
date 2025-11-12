@@ -81,6 +81,13 @@ List Products :http://localhost:4000/products?page=1&limit=10
 
    Analytics:http://localhost:4000/stock/analytics
 
+##images of postman
+
 <img width="1593" height="842" alt="Screenshot 2025-11-12 224829" src="https://github.com/user-attachments/assets/5dc2656a-da1a-4e0d-bec7-fd6802093146" />
+<img width="1576" height="815" alt="Screenshot 2025-11-12 225356" src="https://github.com/user-attachments/assets/abbef2ee-81c4-49bf-b8cf-c81f3b96cb0b" />
+<img width="1499" height="832" alt="Screenshot 2025-11-12 225604" src="https://github.com/user-attachments/assets/719d0d6a-6e40-4621-a1e6-62e277fdef48" />
+<img width="1496" height="823" alt="Screenshot 2025-11-12 225719" src="https://github.com/user-attachments/assets/ca4d243b-5a68-4d96-81f4-4eea1112df27" />
+<img width="1245" height="671" alt="Screenshot 2025-11-12 225846" src="https://github.com/user-attachments/assets/e8a67d1b-e030-4e98-86ca-203dcd079056" />
+
 
 
