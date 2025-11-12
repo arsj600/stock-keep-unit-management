@@ -23,7 +23,7 @@ Clean validation and error handling
 
 
 | Backend | Node.js, Express |
-| Database | MongoDB (Mongoose ODM) |
+| Database :MongoDB  |
 | Validation | express-validator |
 | Auth | Simple role-based middleware (mocked user) |
 | Environment | dotenv |
