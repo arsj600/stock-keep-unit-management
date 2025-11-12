@@ -1,0 +1,28 @@
+{
+  "name": "stock-keep-unit-management",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/arsj600/stock-keep-unit-management#readme",
+  "bugs": {
+    "url": "https://github.com/arsj600/stock-keep-unit-management/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arsj600/stock-keep-unit-management.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "express-validator": "^7.3.0",
+    "mongodb": "^6.20.0",
+    "nodemon": "^3.1.11"
+  }
+}
