@@ -81,7 +81,7 @@ List Products :http://localhost:4000/products?page=1&limit=10
 
    Analytics:http://localhost:4000/stock/analytics
 
-##images of postman
+## images of postman
 
 <img width="1593" height="842" alt="Screenshot 2025-11-12 224829" src="https://github.com/user-attachments/assets/5dc2656a-da1a-4e0d-bec7-fd6802093146" />
 <img width="1576" height="815" alt="Screenshot 2025-11-12 225356" src="https://github.com/user-attachments/assets/abbef2ee-81c4-49bf-b8cf-c81f3b96cb0b" />
